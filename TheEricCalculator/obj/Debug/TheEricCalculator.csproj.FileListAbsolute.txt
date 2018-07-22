@@ -1,0 +1,20 @@
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.exe.config
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.exe
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.pdb
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csprojAssemblyReference.cache
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.Form1.resources
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.Properties.Resources.resources
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csproj.GenerateResource.cache
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.exe
+C:\Users\Vincent Nwonah\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.pdb
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.exe.config
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.exe
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\bin\Debug\TheEricCalculator.pdb
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csprojAssemblyReference.cache
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.Form1.resources
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.Properties.Resources.resources
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csproj.GenerateResource.cache
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.csproj.CoreCompileInputs.cache
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.exe
+C:\Users\okezikam\source\repos\TheEricCalculator\TheEricCalculator\obj\Debug\TheEricCalculator.pdb
